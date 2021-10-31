@@ -1,0 +1,12 @@
+
+body{
+    width: 	100%;
+    margin: 0;
+    padding: 0;
+    }
+    
+    .hero, .projects{ padding: 100px 30px}
+    
+    h1 {font-size: 65px;}
+
+.projects img{ display: none;}
