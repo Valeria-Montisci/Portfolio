@@ -1,8 +1,23 @@
 /* font-family: 'Montserrat Alternates', sans-serif;
 font-family: 'Righteous', cursive; */
+body{font-family: 'Montserrat Alternates', sans-serif;}
 
-h1{ color: blue;
+.hero{ background-color: seashell;
+text-align: center;
+padding: 160px 20px}
+
+h1{ color: purple;
 font-family: 'Righteous', cursive;
+font-size: 80px;
 }
-p{font-family: 'Montserrat Alternates', sans-serif;}
 
+.hero h2{font-size: 30px;
+font-weight: bold;
+line-height: 2px;}
+
+.hero h3{font-size: 20px;
+line-height: 50px;}
+
+.btn {padding: 10px 15px;
+border-radius: 4px;
+line-height: 30px;}
