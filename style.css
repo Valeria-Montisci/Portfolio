@@ -1,12 +1,20 @@
 /* font-family: 'Montserrat Alternates', sans-serif;
 font-family: 'Righteous', cursive; */
+:root {
+     --primary-color: purple;
+     --secondary-color: seashell;
+   
+};
+
+
+
 body{font-family: 'Montserrat Alternates', sans-serif;}
 
-.hero{ background-color: seashell;
+.hero{ background-color:var(--secondary-color)
 text-align: center;
 padding: 160px 20px}
 
-h1{ color: purple;
+h1{ color: var(--primary-color);
 font-family: 'Righteous', cursive;
 font-size: 80px;
 }
