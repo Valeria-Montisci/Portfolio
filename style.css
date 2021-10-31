@@ -1,5 +1,5 @@
-/* font-family: 'Montserrat Alternates', sans-serif;
-font-family: 'Righteous', cursive; */
+/* font-family: 'Comfortaa', cursive
+font-family: 'Montserrat Alternates', sans-serif; */
 :root {
      --primary-color: purple;
      --secondary-color: seashell;
@@ -15,7 +15,7 @@ text-align: center;
 padding: 160px 20px}
 
 h1{ color: var(--primary-color);
-font-family: 'Righteous', cursive;
+font-family:  'Comfortaa', cursive;
 font-size: 80px;
 }
 
