@@ -74,7 +74,7 @@ float: right;}
 
 /*  Footer  */
 footer{text-align: center;
-     margin:  0 120px;
+     margin:  40px 120px;
 }
 .email-link{ text-decoration: none;
 color: black;
@@ -102,3 +102,10 @@ font-size: 24px;
           padding: 40px 220px;
      margin-bottom: 20px;}
      .contact-box h4{ font-weight: bold;}
+
+     .info-code { text-align: center;}
+     .info-code a{
+     color: black;
+text-decoration: none;}
+.info-code a:hover{text-decoration: underline;
+color: var(--primary-color);}
