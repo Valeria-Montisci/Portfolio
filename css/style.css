@@ -35,6 +35,8 @@ nav a:hover, nav li.active a{color: var(--primary-color);}
      padding: 10px;}
      
 .short-name{display: none;}
+
+
 /* body */
 body{font-family: 'Montserrat Alternates', sans-serif;
 }
@@ -69,3 +71,34 @@ text-align: center;}
 float: right;}
 
 .contacts {padding-top: 60px;}
+
+/*  Footer  */
+footer{text-align: center;
+     margin:  0 120px;
+}
+.email-link{ text-decoration: none;
+color: black;
+font-size: 24px;
+}
+.social-links a {
+     text-decoration: none;
+     margin: 20px 20px;
+     color:var(--primary-color);
+     background: var(--secondary-color);
+     padding: 10px 14px;
+     border-radius: 50%;
+     font-size: 18px;
+    ;
+ }
+.email-link:hover, .social-links:hover{
+     color: var(--primary-color);}
+ .social-links a:hover {
+      color: white;
+     background: var(--primary-color);}
+
+     div.contact-box{display: flex;
+          justify-content: space-between;
+          background: var(--secondary-color);
+          padding: 40px 220px;
+     margin-bottom: 20px;}
+     .contact-box h4{ font-weight: bold;}
