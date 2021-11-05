@@ -36,3 +36,6 @@ background-color: var(--primary-color);}
 
 .projects{ padding: 150px 90px;
 text-align: center;}
+
+.profile-pic{ width: 50%;
+float: right;}
