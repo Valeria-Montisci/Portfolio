@@ -11,7 +11,7 @@ font-family: 'Montserrat Alternates', sans-serif; */
 body{font-family: 'Montserrat Alternates', sans-serif;
 }
 
-.hero{ background-color:var(--secondary-color);
+.hero, .about{ background-color:var(--secondary-color);
 text-align: center;
 padding: 220px 80px}
 
@@ -21,11 +21,11 @@ font-size: 80px;
 padding-top: 30px;
 }
 
-.hero h2{font-size: 30px;
+.hero h2,.about h2{font-size: 30px;
 font-weight: bold;
 }
 
-.hero h3{font-size: 20px;
+.hero h3, .about h3{font-size: 20px;
 line-height: 70px;}
 
 .btn {padding: 10px 15px;

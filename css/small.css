@@ -5,7 +5,7 @@ body{
     padding: 0;
     }
     
-    .hero, .projects{ padding: 100px 30px}
+    .hero, .projects, .about{ padding: 100px 30px}
     
     h1 {font-size: 65px;}
 
